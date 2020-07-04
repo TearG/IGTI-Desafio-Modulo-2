@@ -11,7 +11,7 @@
     "type": "git",
     "url": "grades-control-api"
   },
-  "author": "Marcelo Schoeffel",
+  
   "license": "ISC",
   "dependencies": {
     "celebrate": "^12.1.1",
